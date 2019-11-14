@@ -30,7 +30,7 @@ frm.submit(function (e) {
     }
 });
 
-var countDownDate = new Date("Nov 18, 2019 23:59:59").getTime();
+var countDownDate = new Date("Nov 14, 2019 23:59:59").getTime();
     var x = setInterval(function() 
     {
       var now = new Date().getTime();
